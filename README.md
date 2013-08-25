@@ -12,3 +12,4 @@ IdentityFile ~/.ssh/github
 
 ## Step 2
 Add `* */3 * * * sh contrib.sh -d /User/USERNAME/Sites/PROJECT -p GITHUB_PASSWORD` to your computer crontab. See [.crontab](https://github.com/willfarrell/dotCrontab) for instructions how.
+ 
