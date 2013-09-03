@@ -1,5 +1,9 @@
 #!/bin/bash
 
+echo "------------------------------"
+echo "Modifying contribPlusPlus"
+echo "------------------------------"
+
 # sh contrib.sh -d /User/USERNAME/Sites/PROJECT -p PASSWORD
 
 while true ; do
