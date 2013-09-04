@@ -4,7 +4,7 @@ echo "------------------------------"
 echo "Modifying contribPlusPlus"
 echo "------------------------------"
 
-# sh contrib.sh -d /User/USERNAME/Sites/PROJECT -p PASSWORD
+# sh contrib.sh -d /User/USERNAME/Sites/PROJECT -u GITHUB_USERNAME -p GITHUB_PASSWORD
 
 while true ; do
     case "$1" in
