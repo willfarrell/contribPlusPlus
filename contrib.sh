@@ -52,4 +52,3 @@ sed 's/[ \t]*$//' README.md > README.md
 git add README.md
 git commit -m 'clean white space'
 git push -u origin master
- 
