@@ -50,5 +50,5 @@ git push -u origin master --repo "git@github.com:willfarrell/contribPlusPlus.git
 sed 's/[ \t]*$//' README.md > README.md
 
 git add README.md
-git commit -m 'clean white space'
+git commit -m 'clean white space' # --date=\"$(date -r)\" # to set date of commit
 git push -u origin master
