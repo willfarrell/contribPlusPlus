@@ -39,4 +39,4 @@ while true ; do
 done;
 
 # Add to end
-echo "Gaming the system ruins this for all of us."
+echo "Gaming the system is fun :)"
