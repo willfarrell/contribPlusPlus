@@ -39,16 +39,4 @@ while true ; do
 done;
 
 # Add to end
-echo " " >> README.md
-
-git add README.md
-git commit -m 'added extra spacing'
-git remote set-url origin git@github.com:willfarrell/contribPlusPlus.git
-git push -u origin master --repo "git@github.com:willfarrell/contribPlusPlus.git"
-
-# Remove added char\#
-sed 's/[ \t]*$//' README.md > README.md
-
-git add README.md
-git commit -m 'clean white space' # --date=\"$(date -r)\" # to set date of commit
-git push -u origin master
+echo "Gaming the system ruins this for all of us."
